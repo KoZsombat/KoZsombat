@@ -3,7 +3,7 @@
 
 <br/>
 
-<h2>💻 Tech Stack</h2>
+<h2>💻 Worked With</h2>
 
 <div>
 
